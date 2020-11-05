@@ -1,0 +1,13 @@
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.exe
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.deps.json
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.runtimeconfig.json
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.runtimeconfig.dev.json
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.dll
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\bin\Debug\netcoreapp3.1\inlamningsuppgift1.pdb
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.csprojAssemblyReference.cache
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.AssemblyInfoInputs.cache
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.AssemblyInfo.cs
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.dll
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.pdb
+C:\Users\sebas\Dropbox\Programmering\vs\Progmet\inlamningsuppgift1\obj\Debug\netcoreapp3.1\inlamningsuppgift1.genruntimeconfig.cache
